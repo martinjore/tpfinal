@@ -1,0 +1,11 @@
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\bin\Debug\trabajopracticofinal.exe.config
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\bin\Debug\trabajopracticofinal.exe
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\bin\Debug\trabajopracticofinal.pdb
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.csprojAssemblyReference.cache
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.Form1.resources
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.Form2.resources
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.Properties.Resources.resources
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.csproj.GenerateResource.cache
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.csproj.CoreCompileInputs.cache
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.exe
+C:\Users\Martin\Documents\diplomatura .net\trabajopracticofinal\trabajopracticofinal\obj\Debug\trabajopracticofinal.pdb
